@@ -1,0 +1,198 @@
+h1{
+	font-family: Arial;
+	margin-left: 50px;
+    
+}
+
+h1{
+  animation-duration: 3s;
+  animation-name: slidein;
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%; 
+  }
+
+  to {
+    margin-left: 2%;
+    width: 100%;
+  }
+}
+
+h2{
+  animation-duration: 3s;
+  animation-name: slidein;
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%; 
+  }
+
+  to {
+    margin-left: 2%;
+    width: 100%;
+  }
+}
+
+.rightbox{
+	display: inline-block;
+	float: right;
+	border: 2px black solid;
+	border-radius: 1%;
+}
+
+.info{
+	font-size: 25px;
+	margin: 10px;
+	font-family: Arial;
+}
+
+.rightbox2{
+	display: inline-block;
+	float: right;
+	margin: 50px;
+	
+}
+
+.block1{
+  padding: 10px;
+  margin: 20px;
+  border: 2px solid; 
+  border-radius: 5%
+}
+
+.block2{
+	padding:10px;
+	margin: 20px;
+	border: 2px solid; 
+    border-radius: 5%
+}
+
+.block3{
+	padding: 10px;
+	margin: 20px;
+	border: 2px solid; 
+    border-radius: 5%
+}
+.block4{
+	padding: 10px;
+	margin: 20px;
+	margin-top: 60px;
+	border: 2px solid; 
+    border-radius: 5%
+}
+
+.block5 {
+	padding: 10px;
+	margin: 20px;
+    margin-top: 60px;
+	border: 2px solid; 
+    border-radius: 5%
+}
+header {
+	margin-right: 50px;
+	font-family: Arial.
+}
+
+p {
+	margin-left: 50px;
+	font-family: Arial;
+}
+
+h2{
+	margin-left: 50px;
+	font-family: Arial;
+	color: #0066ff;
+}
+
+
+.block1 > h3{
+	margin-left: 45px;
+	color: #0066ff;
+	font-family: Arial;
+
+}
+
+.block2 > h3{
+	margin-left: 45px;
+	color: #0066ff;
+	font-family: Arial;
+}
+
+.block3 > h3{
+	margin-left: 45px;
+	color: #0066ff;
+	font-family: Arial;
+
+}
+
+.block4 > h3{
+     margin-left: 45px;
+	 color: #0066ff;
+	 font-family: Arial;
+}
+
+.block5 > h3{
+	margin-left: 45px;
+	color: #0066ff;
+	font-family: Arial;
+
+}
+
+.block4{
+	margin-top: 10px;
+}
+
+.block5{
+	margin-top: 10px;
+}
+
+.competences {
+	margin-top: 50px;
+	margin-left: 30px;
+}
+
+.competences  p {
+	margin-left: 0px;
+}
+
+.EP{
+	margin-top: 50px;
+	margin-left: 30px;
+}
+
+
+.EP p{
+	margin-left: 0px;
+}
+
+.EP h1{
+	margin-left: 20px;
+	
+}
+
+.DETF{
+	margin-top: 50px;
+}
+
+span{
+	text-decoration:underline;
+	color: #0066ff;
+
+}
+
+
+li{
+	margin-left: 30 px;
+}
+
+.competences h1 {
+	margin-left: 20px;
+}
+
+
+	
